@@ -6,6 +6,7 @@
 3 I have a neuron with 1O ICPs locked with a dissolve delay of 4 years - my neuron has been locked for 2 years. What is my expected voting power?  
   &ensp;&thinsp; 11.95  
 4 What is wrong with the following code?  
+```
 actor {  
   let n : Nat = 50;  
   let t : Text = "Hello";  
@@ -15,6 +16,7 @@ actor {
   };  
    
 }  
+```
 &ensp;&thinsp; no Import  
 5 What is wrong with the following code?   
 actor {  
