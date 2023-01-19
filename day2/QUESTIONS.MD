@@ -1,6 +1,6 @@
 1 Who controls the ledger canister?  
-  - NNS  
-2 What is the subnet of the canister with the id: mwrha-maaaa-aaaab-qabqq-cai? How much nodes are running this subnet? 
+  - NNS
+2 What is the subnet of the canister with the id: mwrha-maaaa-aaaab-qabqq-cai? How much nodes are running this subnet?  
   - https://dashboard.internetcomputer.org/canister/mwrha-maaaa-aaaab-qabqq-cai  
   - https://dashboard.internetcomputer.org/subnet/pae4o-o6dxf-xki7q-ezclx-znyd6-fnk6w-vkv5z-5lfwh-xym2i-otrrw-fqe  
 3 I have a neuron with 1O ICPs locked with a dissolve delay of 4 years - my neuron has been locked for 2 years. What is my expected voting power?  
