@@ -14,7 +14,7 @@ actor {
     Nat.toText(m);  
   };  
    
-} 
+}  
 &ensp;&thinsp; no Import  
 5 What is wrong with the following code?   
 actor {  
