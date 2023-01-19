@@ -18,7 +18,8 @@ actor {
 }  
 ```
 &ensp;&thinsp; no Import  
-5 What is wrong with the following code?   
+5 What is wrong with the following code? 
+```
 actor {  
   var languages : [var Text] = ["English", "German", "Chinese", "Japanese", "French"];  
   
@@ -26,9 +27,11 @@ actor {
     return (languages);  
   };  
  
-}  
+} 
+```
 &ensp;&thinsp; var languages : [var Text]  => [Text]  
 6 What is wrong with the following code?  
+```
 actor {  
   var languages : [Text] = ["English", "German", "Chinese", "Japanese", "French"];  
 
@@ -38,4 +41,5 @@ actor {
   };  
    
 }  
+```
 &ensp;&thinsp; append is deprecated  
