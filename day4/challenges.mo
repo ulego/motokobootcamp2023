@@ -60,7 +60,7 @@ func reverse<T>(l : List.List<T>) : List.List<T> {
 //Add a function called get_usernames that will return an array of tuples (Principal, Text) which contains all the entries in usernames.
 // get_usernames : () -> async [(Principal, Text)];
 let usernames = HashMap.HashMap<Principal, Text>(0, Principal.equal, Principal.hash);
-public shared ({ caller }) func get_usernames() : async [(Principal, Text)] {
+	public shared ({ caller }) func get_usernames() : async [(Principal, Text)] {
 		return Iter.toArray<(Principal, Text)>(usernames.entries());
 };
 }
